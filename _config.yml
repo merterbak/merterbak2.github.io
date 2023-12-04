@@ -119,7 +119,7 @@ author:
       # url: "https://your-website.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/merterbak"
+      url: "https://www.linkedin.com/in/merterbak"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/merterbak"
@@ -144,7 +144,7 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/merterbak"
+      url: "https://linkedin.com/in/merterbak"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://github.com/merterbak"
