@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Mert Erbak"
 description              : "Personal website."
-url                      : "https://merterbak.me"
+url                      : "https://merterbak.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               :  GitHub username/repo-name e.g. "merterbak/merterbak.github.io"
 teaser                   :  /assets/images/site-logo.jpeg
