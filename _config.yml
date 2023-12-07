@@ -25,7 +25,7 @@ description              : "Personal website."
 url                      : "https://merterbak.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               :  GitHub username/repo-name e.g. "merterbak/merterbak.github.io"
-teaser                   :  /assets/images/site-logo.jpeg
+teaser                   :  
 logo                     :  /assets/images/site-logo.jpeg
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
