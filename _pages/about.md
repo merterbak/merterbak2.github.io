@@ -1,6 +1,6 @@
 ---
 title: "Hi all!"
-permalink: /about/
+permalink: /about
 layout: single
 author_profile: true
 ---
