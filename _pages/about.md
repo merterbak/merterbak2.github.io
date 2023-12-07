@@ -1,8 +1,6 @@
 ---
-title: About
-layout: collection
+title: "Hi all!"
 permalink: /about/
-collection: pets
-entries_layout: grid
-classes: wide
+layout: single
+author_profile: true
 ---
